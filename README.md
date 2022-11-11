@@ -25,6 +25,6 @@ I design and create how digital products and humans interact with each other, I 
 </div>
 
 ### My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexanderivn&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexanderivn&theme=dark)]([https://git.io/streak-stats](https://github.com/alexanderivn))
 
 
