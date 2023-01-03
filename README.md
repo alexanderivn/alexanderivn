@@ -10,10 +10,6 @@
 
 I design and create how digital products and humans interact with each other, I plan and build online experiences for people by focusing on user-centered design, making things easy to use and enjoyable. My goals are not just able to design it, but i want to bring my ideas into reality.
 
-- I’m currently freelancing.
-- I’m currently looking for new opportunity.
-- I like to learn new things.
-
 ### Stacks im using:
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;
