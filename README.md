@@ -8,7 +8,7 @@
 
 **I'm a Full-Stack developer** mainly working with **Laravel Inertia JS and Vue JS** or **TALL Stack (Tailwind CSS, Alpine JS, Livewire, Laravel)** depends on the project requirements. Not only code, I'm also doing UI/UX design, since my background is from UI/UX.
 
-I design and create how digital products and humans interact with each other, I plan and build online experiences for people by focusing on user-centered design, making things easy to use and enjoyable. My goals are not just able to design it, but i want to bring my ideas into reality.
+I design and create how digital products and humans interact with each other, I plan and build online experiences for people by focusing on user-centered design, making things easy to use and enjoyable. My goals are not just able to design it, but bring my ideas into reality by combining my technical skills with a keen design sensibility.
 
 ### Stacks im using:
 <div>
