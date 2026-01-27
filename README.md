@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-**I'm a Frontend Developer** mainly working with **Nuxt, Typescript and Vue JS**
+**I'm a Frontend/Full-Stack Developer** mainly working with **Nuxt, Typescript and Vue JS**
 
 With a strong UI/UX design background, I design and build user-centered digital products that focus on clarity, usability, and performance. I enjoy crafting clean interfaces and scalable front-end architectures, while turning ideas into real, production-ready experiences.
 
