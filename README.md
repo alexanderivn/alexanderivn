@@ -6,20 +6,11 @@
 ### Hi there 👋
 
 
-**I'm a Full-Stack developer** mainly working with **Laravel Inertia JS and Vue JS** or **TALL Stack (Tailwind CSS, Alpine JS, Livewire, Laravel)** depends on the project requirements. Not only code, I'm also doing UI/UX design, since my background is from UI/UX.
+**I'm a Frontend Developer** mainly working with **Nuxt, Typescript and Vue JS**
 
-I design and create how digital products and humans interact with each other, I plan and build online experiences for people by focusing on user-centered design, making things easy to use and enjoyable. My goals are not just able to design it, but bring my ideas into reality by combining my technical skills with a keen design sensibility.
+With a strong UI/UX design background, I design and build user-centered digital products that focus on clarity, usability, and performance. I enjoy crafting clean interfaces and scalable front-end architectures, while turning ideas into real, production-ready experiences.
 
-### Stacks im using:
-<div>
-  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="50" height="50"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/>&nbsp;
-    <img src="https://forum.laravel-livewire.com/uploads/default/original/1X/9f541726632efa6a30e52c0891e1d3f8b90414a2.svg" title="Livewire" alt="Livewire" width="100" height="50"/>&nbsp;
-  <img src="https://alpinejs.dev/alpine_long.svg" title="AlpineJS" alt="AlpineJS" width="50" height="50"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="50" height="50"/>&nbsp;
-</div>
+My goal is to bridge design and development, combining thoughtful UX with modern JavaScript frameworks to create products people enjoy using.
 
 ### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexanderivn&theme=dark)]([https://git.io/streak-stats](https://github.com/alexanderivn))
