@@ -11,8 +11,3 @@
 With a strong UI/UX design background, I design and build user-centered digital products that focus on clarity, usability, and performance. I enjoy crafting clean interfaces and scalable front-end architectures, while turning ideas into real, production-ready experiences.
 
 My goal is to bridge design and development, combining thoughtful UX with modern JavaScript frameworks to create products people enjoy using.
-
-### My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexanderivn&theme=dark)]([https://git.io/streak-stats](https://github.com/alexanderivn))
-
-
